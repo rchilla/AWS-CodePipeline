@@ -7,6 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class FirstRestController {
 	public String awsCodeipeline() {
 		
-		return "Introduction of AWS Codepioeline"
+		return "Introduction of AWS Codepioeline";
+		System.out.println("This is to test");
 	}
 }
