@@ -10,7 +10,7 @@ public class FirstRestController {
 	@GetMapping
 	public String awsCodeipeline() {
 		
-		return "Introduction of AWS Codepioeline";
+		return "Introduction of AWS Codepioeline V1" ;
 		//System.out.println("This is to test");
 
 		
